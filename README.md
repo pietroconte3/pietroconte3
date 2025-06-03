@@ -1,5 +1,7 @@
 ## Welcome to Pietro Conte's profile! 👋
 
+🎓 Studente magistrale in Ingegneria Informatica presso l’Università degli Studi di Napoli Federico II
+
 <!--
 **pietroconte3/pietroconte3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
